@@ -1,0 +1,11 @@
+{
+  "name": "com.yuriy-gulyak.editor-fullscreen",
+  "version": "1.0.0",
+  "displayName": "Editor Fullscreen",
+  "description": "Unity Editor fullscreen mode for Windows OS.\n\nKeyboard shortcut:\nF11\n\nMenu item:\nWindow/Toggle Fullscreen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YuriyGulyak/unity-editor-fullscreen.git"
+  },
+  "author": "Yuriy Gulyak"
+}
